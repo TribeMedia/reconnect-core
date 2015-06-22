@@ -1,10 +1,10 @@
 {
-  "name": "reconnect-core",
+  "name": "tribemedia-reconnect-core",
   "description": "Generic stream reconnection module.",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juliangruber/reconnect-core.git"
+    "url": "git://github.com/tribemedia/reconnect-core.git"
   },
   "homepage": "https://github.com/juliangruber/reconnect-core",
   "main": "index.js",
